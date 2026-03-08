@@ -1,1 +1,1 @@
-hadal-protocol
+hadal-protocoll
